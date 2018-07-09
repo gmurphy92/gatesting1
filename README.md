@@ -1,2 +1,2 @@
 # gatesting1
-testinng
+testing
